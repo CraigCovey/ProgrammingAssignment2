@@ -1,7 +1,8 @@
 ## The first function creates a special "vector", which is really a list containing a function to
 ## set the value of the matrix, get the value of the matrix,
 ## set the inverse of the matrix, and get the inverse of the matrix.
-
+## The second function returns the inverse of the matrix using the function
+## from the first function.
 
 ## makeCacheMatrix returns a list of functions that the user can call
 ## that return the inverse of a 2-by-2 matrix
